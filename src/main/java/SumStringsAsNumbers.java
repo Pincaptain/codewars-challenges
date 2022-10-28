@@ -54,7 +54,5 @@ public class SumStringsAsNumbers {
 
     public static void main(String[] args) {
         System.out.println(sumStrings("800", "9567"));
-    } // 76571 --> 17567
-    // 7659
-    // 008 76301 10367
+    }
 }
